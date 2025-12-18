@@ -26,15 +26,5 @@ All the steps are implemented in a Jupyter Notebook.
 - Scikit-learn
 - Jupyter Notebook
 
-## How to Run
-
-1. Install Python (3.8 or higher recommended)
-2. Install required libraries:
-   ```bash
-3. pip install pandas numpy scikit-learn jupyter
-Open the notebook:
-jupyter notebook
-4. Run index.ipynb step by step
-
-##Goal
+## Goal
 To demonstrate a complete machine learning workflow for phishing email detection, from raw data to model evaluation.
